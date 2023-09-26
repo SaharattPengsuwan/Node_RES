@@ -5,7 +5,7 @@ const app = express();
 app.use(express.json());
 
 
-const dbUrl = 'postgres://webadmin:QRYmts12232@node51698-saharatt1.proen.app.ruk-com.cloud:11537/book'
+const dbUrl = 'postgres://webadmin:QRYmts12232@10.104.14.93:5432/book'
 
 
 
